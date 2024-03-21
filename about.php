@@ -100,7 +100,7 @@
                     <div class="h-100">
                         <div class="border-start border-5 border-primary ps-4 mb-5">
                             <h6 class="text-body text-uppercase mb-2">About Us</h6>
-                            <h2>Unique Solutions For Residentials & Industries!</h2>
+                            <h2>Provide unique Solutions</h2>
                         </div>
                         <!-- <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p> -->
                         <p class="mb-4">RetroFit Renovation is a privately-owned construction company in South Africa,
@@ -142,10 +142,10 @@
                     <div class="col-md-6 text-center text-md-end">
                         <div class="d-flex pt-2">
                         <div class="d-flex pt-2">
-                                <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square btn-outline-primary me-1" href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
-                                <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-linkedin"></i></a>
+                                <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn-square btn-outline-primary me-1" href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
+                                <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-linkedin"></i></a>
                             </div>
                         </div>
                     </div>

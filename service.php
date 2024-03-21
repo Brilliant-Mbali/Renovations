@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>MDM Renovations</title>
+    <title>RetroFit Renovations</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -49,7 +49,7 @@
                 </div>
                 <div class="h-100 d-inline-flex align-items-center border-end px-3">
                     <small class="far fa-envelope-open me-2"></small>
-                    <small>mdmrenovations@gmail.com</small>
+                    <small>retrofitrenovations@gmail.com</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center border-end px-3">
                     <small class="far fa-clock me-2"></small>
@@ -83,8 +83,8 @@
     </nav>
     <!-- Navbar End -->
 
-    <!-- Service -->
-    <div class="container-xxl py-5">
+     <!-- Service Start -->
+     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5 align-items-end mb-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -94,92 +94,95 @@
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row bg-light overflow-hidden  wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item col bg-light overflow-hidden">
-                        <img src="img/plumbing.jpg" alt="" width=349px height=300px>
-                        <div class="service-text position-relative text-center">
+            <div class="row g-4 justify-content-center">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-light overflow-hidden h-100">
+                        <img src="img/plumbing.jpg" alt="" height=300px>
+                        <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Plumbing</h5>
                             <p> regular routine testing, diagnosis and by executing necessary repairs.</p>
-                            <a class="small" href="plumbing.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="plumb.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item col bg-light overflow-hidden">
-                        <img src="img/tiling-main.jpg" alt="" width=349px height=300px>
-                        <div class="service-text position-relative text-center">
+                        <img  src="img/tiling-main.jpg" alt="" height=300px width=100%>
+                        <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Tiling And Painting</h5>
                             <p>Improving and repurposing infrastructure to add value and enable positive
                                 change.</p>
-                            <a class="small" href="tiling.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="tiling.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
-                    <div class="service-item col bg-light overflow-hidden">
-                        <img src="img/electrical.jpg" alt="" width=349px height=300px>
-                        <div class="service-text position-relative text-center">
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-light overflow-hidden h-100">
+                        <img src="img/electrical.jpg" alt="" height=300px>
+                        <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Wiring And Electrical</h5>
                             <p> routine testing, diagnosis and by executing necessary repairs.</p>
-                            <a class="small" href="electric.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="electric.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
-                </div></br>
-                <div class="row bg-light overflow-hidden wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item col bg-light overflow-hidden">
-                        <img src="img/carperntry.jpg" alt="" width=533px height=300px>
-                        <div class="service-text position-relative text-center">
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-light overflow-hidden h-100">
+                        <img src="img/carperntry-2.jpg" alt="" height=300px width=100%>
+                        <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Carpentry</h5>
                             <p> routine testing, diagnosis and by executing necessary repairs.</p>
-                            <a class="small" href="carpet.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="carpet.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
-                    <div class="service-item col bg-light overflow-hidden">
-                        <img src="img/ceiling-4.jpg" alt="" width=533px height=300px>
-                        <div class="service-text position-relative text-center">
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-light overflow-hidden h-100">
+                        <img src="img/ceiling-4.jpg" alt="" height=300px width=100%>
+                        <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Ceiling</h5>
                             <p> routine testing, diagnosis and by executing necessary repairs.</p>
-                            <a class="small" href="ceiling.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="ceiling.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-        <!-- Service End -->
+    <!-- Service End -->
 
-        <!-- Footer Start -->
-        <div class="container-fluid bg-dark footer">
-                <div class="container-fluid copyright"> 
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                                <p> @ 2024 | RetroFit Renovation | All Right Reserved. </p>
-                            </div>
-                            <div class="col-md-6 text-center text-md-end">
-                                <div class="d-flex pt-2">
-                                    <a class="btn btn-square btn-outline-primary me-1"
-                                        href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
-                                    <a class="btn btn-square btn-outline-primary me-1" href=""><i
-                                            class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-outline-primary me-1" href=""><i
-                                            class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square btn-outline-primary me-1" href=""><i
-                                            class="fab fa-linkedin"></i></a>
-                                </div>
-                            </div>
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark footer">
+        <div class="container-fluid copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                        <p> @ 2024 | RetroFit Renovation | All Right Reserved. </p>
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <div class="d-flex pt-2">
+                            <a class="btn-square btn-outline-primary me-1" href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-instagram"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-linkedin"></i></a>
                         </div>
-                     </div>
-               </div>
-            <!-- Footer End -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
 
-        <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/wow/wow.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
-        <!-- Template Javascript -->
-        <script src="js/main.js"></script>
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
 
 
 </body>

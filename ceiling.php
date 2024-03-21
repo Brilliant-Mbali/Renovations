@@ -68,22 +68,66 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-6 wow fadeInUp">
                     <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                    <img src="img/plumbing.jpg" alt="" width=100% height=500px>
+                        <!-- Carousel Start -->
+                        <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img class="w-100" src="img/ceiling.jpg" alt="Image" height="500px">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="w-100" src="img/ceiling-2.jpg" alt="Image" height="500px">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="w-100" src="img/ceiling-3.jpg" alt="Image" height="500px">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="w-100" src="img/ceiling-4.jpg" alt="Image" height="500px">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="w-100" src="img/ceiling-6.jpg" alt="Image" height="500px">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="w-100" src="img/ceiling-7.jpg" alt="Image" height="500px">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="w-100" src="img/ceiling-8.jpg" alt="Image" height="500px">
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                        <!-- Carousel End -->
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="h-100">
                         <div class="border-start border-5 border-primary ps-4 mb-5">
-                            <h4 class="text-body text-uppercase mb-2">Plumbing</h4>
+                            <h4 class="text-body text-uppercase mb-2"> Ceiling</h4>
                         </div>
-                        <h6 class="text-body text-uppercase mb-2"><strong> DETAILS: </strong></h6>
+                        <h6 class="text-body text-uppercase mb-2"><strong> PROJECT PROFILE: </strong></h6>
+                        <ul class="list-group">
+                            <li class="list-group-item"><strong>PROVINCE :</strong> Gauteng </li>
+                            <li class="list-group-item"><strong>Duration :</strong> 2 days</li>
+                            <li class="list-group-item"> <strong>PROJECT MANAGEMENT :</strong> RetroFit Renovations</li>
+                            <li class="list-group-item"><strong>LOCATION :</strong> Various</li>
+                        </ul></br>
+                        <h6 class="text-body text-uppercase mb-2"><strong> DESCRIPTION </strong></h6>
+                        <P> Cutting,shaping and other materials together to produce a finished product</P>
+                        <h6 class="text-body text-uppercase mb-2"><strong> CEILING DESIGNS: </strong></h6>
                     <ul class="list-group">
-                        <li> Preparing Cost Estimates</li>
-                        <li> Install Pipes And Tubes</li>
-                        <li> Testing Facilities For Leaks</li>
-                        <li>Repair And Maintain Various Appliances</li>
+                        <li>Rhino board</li>
+                        <li>Coved Ceiling</li>
+                        <li>Drop ceiling </li>
+                        <li>Beamed ceiling </li>
+                        <li>CONTACT FOR MORE</li>
                       </ul>
                     </div>
                 </div>
@@ -93,8 +137,8 @@
 
 
 
- <!-- Footer Start -->
- <div class="container-fluid bg-dark footer">
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark footer">
         <div class="container-fluid copyright">
             <div class="container">
                 <div class="row">

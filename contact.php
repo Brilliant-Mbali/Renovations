@@ -142,13 +142,13 @@
                             </div>
                             <div class="col-md-6 text-center text-md-end">
                                 <div class="d-flex pt-2">
-                                    <a class="btn btn-square btn-outline-primary me-1"
+                                    <a class="btn-square btn-outline-primary me-1"
                                         href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
-                                    <a class="btn btn-square btn-outline-primary me-1" href=""><i
+                                    <a class="btn-square btn-outline-primary me-1" href=""><i
                                             class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-outline-primary me-1" href=""><i
+                                    <a class="btn-square btn-outline-primary me-1" href=""><i
                                             class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square btn-outline-primary me-1" href=""><i
+                                    <a class="btn-square btn-outline-primary me-1" href=""><i
                                             class="fab fa-linkedin"></i></a>
                                 </div>
                             </div>

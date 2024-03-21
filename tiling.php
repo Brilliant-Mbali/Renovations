@@ -109,8 +109,17 @@
                         <div class="border-start border-5 border-primary ps-4 mb-5">
                             <h4 class="text-body text-uppercase mb-2">Tiling And Painting</h4>
                         </div>
-                        <h6 class="text-body text-uppercase mb-2">Details:</h6>
-                        <p class="lead">Preparing surfaces by levelling off with plaster, sand or cement. Decorating and protecting floors and walls using all kinds of tiles (including ceramic, clay, slate, marble and glass) Fixing the tiles and applying grout before finishing off. Laying intricate mosaic tiles.</p>
+                        <h6 class="text-body text-uppercase mb-2"><strong> PROJECT PROFILE: </strong></h6>
+                    <ul class="list-group">
+                        <li class="list-group-item"><strong>PROVINCE :</strong>  Gauteng </li>
+                        <li class="list-group-item"><strong>Duration :</strong> 3 days</li>
+                        <li class="list-group-item"> <strong>PROJECT MANAGEMENT :</strong> RetroFit Renovations</li>
+                        <li class="list-group-item"><strong>LOCATION :</strong> Tembisa</li>
+                      </ul></br>
+                      <h6 class="text-body text-uppercase mb-2"><strong> DESCRIPTION </strong></h6>
+                      <P> Demolishing of the wall and built it from scratch then we did a design of clading on the wall 
+                        as we followed by painting on the sides of the wall.
+                      </P>
                     </div>
                 </div>
 
@@ -122,26 +131,26 @@
                     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="img/bathroom_tiling.jpg" alt="" width=500px height=250px>
+                                <img src="img/bathroom_tiling.jpg" alt="" width=100% height=250px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/bathroom_tiling-2.jpg" alt="" width=500px height=250px>
+                                <img src="img/bathroom_tiling-2.jpg" alt="" width=100% height=250px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/tiling-2.jpg" alt="Image" height=250px width=500px>
+                                <img src="img/tiling-2.jpg" alt="Image" height=250px width=100%>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/outside-tiling.jpg" alt="" width=500px height=250px>
+                                <img src="img/outside-tiling.jpg" alt="" width=100% height=250px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/wall-tiling.jpg" alt="" width=500px height=250px>
+                                <img src="img/wall-tiling.jpg" alt="" width=100% height=250px>
                                 .
                             </div>
                             <div class="carousel-item">
-                                <img src="img/floor-tiling.jpg" alt="" width=500px height=250px>
+                                <img src="img/floor-tiling.jpg" alt="" width=100% height=250px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/kitchen-tiling-3.jpg" alt="" width=500px height=250px>
+                                <img src="img/kitchen-tiling-3.jpg" alt="" width=100% height=250px>
                             </div>
                         </div>
                     </div>
@@ -151,19 +160,17 @@
                     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="img/painting.jpg" alt="" width=500px height=250px>
+                                <img src="img/painting.jpg" alt="" width=100% height=250px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/painting-2.jpg" alt="" width=500px height=250px>
+                                <img src="img/painting-2.jpg" alt="" width=100% height=250px>
                             </div>
-                        </div>
+                        </div>        
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark footer">
@@ -175,10 +182,10 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <div class="d-flex pt-2">
-                            <a class="btn btn-square btn-outline-primary me-1" href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
-                            <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-linkedin"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-instagram"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-linkedin"></i></a>
                         </div>
                     </div>
                 </div>

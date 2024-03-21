@@ -70,20 +70,20 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                    <img src="img/plumbing.jpg" alt="" width=100% height=500px>
+                    <img src="img/electrical.jpg" alt="" width=100% height=500px>
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="h-100">
                         <div class="border-start border-5 border-primary ps-4 mb-5">
-                            <h4 class="text-body text-uppercase mb-2">Plumbing</h4>
+                            <h4 class="text-body text-uppercase mb-2">Wiring and Electrical</h4>
                         </div>
                         <h6 class="text-body text-uppercase mb-2"><strong> DETAILS: </strong></h6>
                     <ul class="list-group">
-                        <li> Preparing Cost Estimates</li>
-                        <li> Install Pipes And Tubes</li>
-                        <li> Testing Facilities For Leaks</li>
-                        <li>Repair And Maintain Various Appliances</li>
+                        <li> Perform electricity troubleshooting.</li>
+                        <li> Install and maintain wiring,control,and lighting systems.</li>
+                        <li> Read blueprint or electrical diagrams </li>
+                        <li>Preparing cost estimates </li>
                       </ul>
                     </div>
                 </div>

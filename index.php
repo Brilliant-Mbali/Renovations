@@ -48,7 +48,7 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
-        <a href="index.html" class="navbar-brand d-flex align-items-center">
+        <a href="index.php" class="navbar-brand d-flex align-items-center">
             <h2 class="m-0"><i class="fa fa-building text-primary me-1" aria-hidden="true"></i>RetroFit Renovations</h2>
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -70,7 +70,7 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/carousel1.jpg" alt="Image">
+                    <img class="w-100" src="img/carousel-1.jpg" alt="Image" width=100% height=500px>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+                    <img class="w-100" src="img/carousel1.jpg" alt="Image" width=100% height=500px>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -110,7 +110,10 @@
             </button>
         </div>
     </div>
+
     <!-- Carousel End -->
+
+
     <div class="container">
         <div class="row align-items-centre">
             <div data-wow-delay="0.1s">
@@ -139,7 +142,7 @@
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/plumbing.jpg" alt="">
+                        <img src="img/plumbing.jpg" alt="" height=300px>
                         <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Plumbing</h5>
                             <p> regular routine testing, diagnosis and by executing necessary repairs.</p>
@@ -147,42 +150,44 @@
                         </div>
                     </div>
                 </div>
-                <div class="service-item col bg-light overflow-hidden">
-                    <img src="img/tiling-main.jpg" alt="" width=349px height=300px>
-                    <div class="service-text position-relative text-center">
-                        <h5 class="mb-3">Tiling And Painting</h5>
-                        <p>Improving and repurposing infrastructure to add value and enable positive
-                            change.</p>
-                        <a class="small" href="tiling.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item col bg-light overflow-hidden">
+                        <img  src="img/tiling-main.jpg" alt="" height=300px width=100%>
+                        <div class="service-text position-relative text-center h-100 p-4">
+                            <h5 class="mb-3">Tiling And Painting</h5>
+                            <p>Improving and repurposing infrastructure to add value and enable positive
+                                change.</p>
+                            <a class="small" href="tiling.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/electrical.jpg" alt="">
+                        <img src="img/electrical.jpg" alt="" height=300px>
                         <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Wiring And Electrical</h5>
                             <p> routine testing, diagnosis and by executing necessary repairs.</p>
-                            <a class="small" href="electric.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="electric.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/carperntry.jpg" alt="">
+                        <img src="img/carperntry-2.jpg" alt="" height=300px width=100%>
                         <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Carpentry</h5>
                             <p> routine testing, diagnosis and by executing necessary repairs.</p>
-                            <a class="small" href="carpet.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="carpet.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/ceiling-4.jpg" alt="">
+                        <img src="img/ceiling-4.jpg" alt="" height=300px width=100%>
                         <div class="service-text position-relative text-center h-100 p-4">
                             <h5 class="mb-3">Ceiling</h5>
                             <p> routine testing, diagnosis and by executing necessary repairs.</p>
-                            <a class="small" href="ceiling.html">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a class="small" href="ceiling.php">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </div>
                 </div>
@@ -201,10 +206,10 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <div class="d-flex pt-2">
-                            <a class="btn btn-square btn-outline-primary me-1" href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
-                            <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-square btn-outline-primary me-1" href=""><i class="fab fa-linkedin"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href="https://wa.me/0717578370"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-instagram"></i></a>
+                            <a class="btn-square btn-outline-primary me-1" href=""><i class="fab fa-linkedin"></i></a>
                         </div>
                     </div>
                 </div>
