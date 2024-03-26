@@ -110,20 +110,19 @@
                             <h4 class="text-body text-uppercase mb-2">Tiling And Painting</h4>
                         </div>
                         <h6 class="text-body text-uppercase mb-2"><strong> PROJECT PROFILE: </strong></h6>
-                    <ul class="list-group">
-                        <li class="list-group-item"><strong>PROVINCE :</strong>  Gauteng </li>
-                        <li class="list-group-item"><strong>Duration :</strong> 3 days</li>
-                        <li class="list-group-item"> <strong>PROJECT MANAGEMENT :</strong> RetroFit Renovations</li>
-                        <li class="list-group-item"><strong>LOCATION :</strong> Tembisa</li>
-                      </ul></br>
-                      <h6 class="text-body text-uppercase mb-2"><strong> DESCRIPTION </strong></h6>
-                      <P> Demolishing of the wall and built it from scratch then we did a design of clading on the wall 
-                        as we followed by painting on the sides of the wall.
-                      </P>
+                        <ul class="list-group">
+                            <li class="list-group-item"><strong>PROVINCE :</strong> Gauteng </li>
+                            <li class="list-group-item"><strong>Duration :</strong> 3 days</li>
+                            <li class="list-group-item"> <strong>PROJECT MANAGEMENT :</strong> RetroFit Renovations</li>
+                            <li class="list-group-item"><strong>LOCATION :</strong> Tembisa</li>
+                        </ul></br>
+                        <h6 class="text-body text-uppercase mb-2"><strong> DESCRIPTION </strong></h6>
+                        <P> Demolishing of the wall and built it from scratch then we did a design of clading on the wall
+                            as we followed by painting on the sides of the wall.
+                        </P>
                     </div>
                 </div>
-
-                <!----   Other Projects-->
+            / <!---- Other Projects-->
                 <h4>PROJECTS IN THE SAME CATEGORY</h4>
 
                 <div class="col wow fadeInUp">
@@ -131,26 +130,26 @@
                     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="img/bathroom_tiling.jpg" alt="" width=100% height=250px>
+                                <img src="img/bathroom_tiling.jpg" alt="" width=100% height=300px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/bathroom_tiling-2.jpg" alt="" width=100% height=250px>
+                                <img src="img/bathroom_tiling-2.jpg" alt="" width=100% height=300px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/tiling-2.jpg" alt="Image" height=250px width=100%>
+                                <img src="img/tiling-2.jpg" alt="Image" height=300px width=100%>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/outside-tiling.jpg" alt="" width=100% height=250px>
+                                <img src="img/outside-tiling.jpg" alt="" width=100% height=300px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/wall-tiling.jpg" alt="" width=100% height=250px>
+                                <img src="img/wall-tiling.jpg" alt="" width=100% height=300px>
                                 .
                             </div>
                             <div class="carousel-item">
-                                <img src="img/floor-tiling.jpg" alt="" width=100% height=250px>
+                                <img src="img/floor-tiling.jpg" alt="" width=100% height=300px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/kitchen-tiling-3.jpg" alt="" width=100% height=250px>
+                                <img src="img/kitchen-tiling-3.jpg" alt="" width=100% height=300px>
                             </div>
                         </div>
                     </div>
@@ -160,12 +159,12 @@
                     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="img/painting.jpg" alt="" width=100% height=250px>
+                                <img src="img/painting.jpg" alt="" width=100% height=300px>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/painting-2.jpg" alt="" width=100% height=250px>
+                                <img src="img/painting-2.jpg" alt="" width=100% height=300px>
                             </div>
-                        </div>        
+                        </div>
                     </div>
                 </div>
             </div>

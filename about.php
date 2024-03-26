@@ -103,11 +103,7 @@
                             <h2>Provide unique Solutions</h2>
                         </div>
                         <!-- <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p> -->
-                        <p class="mb-4">RetroFit Renovation is a privately-owned construction company in South Africa,
-                            located in Gauteng. The group is committed to the industry, the development of its people
-                            and delivery to clients. Whether breaking ground on new projects, upgrading existing
-                            structures or revitalising old ones, we are constantly building on our reputation of
-                            integrity, innovation and expertise.</p>
+                        <p class="mb-4">RetroFit Renovation is a privately owned construction company that prioritises its client. We are reliable,trustworthy, affordable and have professionalism, quality, experienced and skilled workers, and maintain clear and transparent communication.</p>
                         <div class="border-top mt-4 pt-4">
                             <div class="row g-4">
                                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s">
